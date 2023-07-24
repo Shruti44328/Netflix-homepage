@@ -51,8 +51,9 @@ body{
     padding: 7px 10px;
  }
  .language-btn img{
-      width: 10px;
-      margin-left: 10px;
+      width: 20px;
+      margin-left: 20px;
+     align-items: center;
  }
 
  .header-content{

@@ -53,6 +53,7 @@ body{
  .language-btn img{
       width: 20px;
       margin-left: 20px;
+      align-item: center;
  }
 
  .header-content{
